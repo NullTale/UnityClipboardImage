@@ -21,7 +21,7 @@ The project was never been supported and was posted without any documentation, d
 <br>
 ...
 
-Until the Aseprite developer - Dacap -> [Request](https://github.com/NullTale/UnityClipboardImage/issues/3) ˚. ✧ <br>
+Until the Aseprite developer - [Dacap](https://github.com/dacap) -> [Request](https://github.com/NullTale/UnityClipboardImage/issues/3) ˚. ✧ <br>
 > Who somehow found out about it and noticed the lack of a license for his [clip](https://github.com/dacap/clip) project, which was used to build the Dll
 
 * Below is the license for copyright compliance
